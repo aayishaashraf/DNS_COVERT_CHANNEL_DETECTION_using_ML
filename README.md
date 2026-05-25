@@ -6,7 +6,7 @@
 
 **Production-ready, AI-powered DNS threat detection with multi-layered defense, real-time monitoring, and automated incident response.**
 
-Student: Aayisha Ashraf | ID: 32146633 | University of West London
+Student: Aayisha Ashraf |  University of West London
 
 ---
 
