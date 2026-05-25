@@ -1,0 +1,38 @@
+# Configuration file for DNS Covert Channel Detection System
+
+# Data Configuration
+data:
+  raw_dir: "data/raw"
+  processed_dir: "data/processed"
+  labels_dir: "data/labels"
+
+# Model Configuration
+model:
+  ibhh:
+    cache_size: 10000
+    entropy_threshold: 4.5
+  
+  lstm:
+    sequence_length: 50
+    embedding_dim: 64
+    lstm_units: 128
+    dropout: 0.2
+    epochs: 20
+    batch_size: 32
+  
+  clustering:
+    algorithm: "dbscan"
+    eps: 0.3
+    min_samples: 3
+
+# Detection Parameters
+detection:
+  real_time: true
+  explainability: true
+  campaign_clustering: true
+
+# Web Dashboard
+web:
+  host: "127.0.0.1"
+  port: 5000
+  debug: true

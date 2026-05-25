@@ -1,0 +1,2 @@
+www.google.com # Manual whitelist MANUAL-1FDAEDFD
+www.GoodDomain.com # Manual whitelist MANUAL-14584602

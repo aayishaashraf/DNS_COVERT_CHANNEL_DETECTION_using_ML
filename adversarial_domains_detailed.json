@@ -1,0 +1,217 @@
+[
+  {
+    "domain": "mail-facebook.com",
+    "entropy": 3.3927474104487847,
+    "strategy": "Low Entropy Evasion",
+    "expected_bypass": "Stage 1 (Low Entropy)",
+    "actual_threat": "Phishing/Typosquatting"
+  },
+  {
+    "domain": "oracle-help.net",
+    "entropy": 3.095795255000934,
+    "strategy": "Low Entropy Evasion",
+    "expected_bypass": "Stage 1 (Low Entropy)",
+    "actual_threat": "Phishing/Typosquatting"
+  },
+  {
+    "domain": "system.adobe-update.net",
+    "entropy": 2.2516291673878226,
+    "strategy": "Low Entropy Evasion",
+    "expected_bypass": "Stage 1 (Low Entropy)",
+    "actual_threat": "Phishing/Typosquatting"
+  },
+  {
+    "domain": "cisco-service.com",
+    "entropy": 2.873140679513133,
+    "strategy": "Low Entropy Evasion",
+    "expected_bypass": "Stage 1 (Low Entropy)",
+    "actual_threat": "Phishing/Typosquatting"
+  },
+  {
+    "domain": "systemadobehelp.com",
+    "entropy": 3.456564762130954,
+    "strategy": "Low Entropy Evasion",
+    "expected_bypass": "Stage 1 (Low Entropy)",
+    "actual_threat": "Phishing/Typosquatting"
+  },
+  {
+    "domain": "cisco-verify.com",
+    "entropy": 3.2516291673878226,
+    "strategy": "Low Entropy Evasion",
+    "expected_bypass": "Stage 1 (Low Entropy)",
+    "actual_threat": "Phishing/Typosquatting"
+  },
+  {
+    "domain": "update-apple.net",
+    "entropy": 2.8553885422075336,
+    "strategy": "Low Entropy Evasion",
+    "expected_bypass": "Stage 1 (Low Entropy)",
+    "actual_threat": "Phishing/Typosquatting"
+  },
+  {
+    "domain": "loginpaypalcenter.net",
+    "entropy": 3.4992275471326924,
+    "strategy": "Low Entropy Evasion",
+    "expected_bypass": "Stage 1 (Low Entropy)",
+    "actual_threat": "Phishing/Typosquatting"
+  },
+  {
+    "domain": "adobe-portal.org",
+    "entropy": 3.2516291673878226,
+    "strategy": "Low Entropy Evasion",
+    "expected_bypass": "Stage 1 (Low Entropy)",
+    "actual_threat": "Phishing/Typosquatting"
+  },
+  {
+    "domain": "systemciscoverify.com",
+    "entropy": 3.3371753411230767,
+    "strategy": "Low Entropy Evasion",
+    "expected_bypass": "Stage 1 (Low Entropy)",
+    "actual_threat": "Phishing/Typosquatting"
+  },
+  {
+    "domain": "cisco-v7-support.com",
+    "entropy": 3.375,
+    "strategy": "Mid Entropy Evasion (Goldilocks)",
+    "expected_bypass": "Stage 1 (Ambiguous Entropy)",
+    "actual_threat": "C2/DGA"
+  },
+  {
+    "domain": "paypal-v1-secure.net",
+    "entropy": 3.5,
+    "strategy": "Mid Entropy Evasion (Goldilocks)",
+    "expected_bypass": "Stage 1 (Ambiguous Entropy)",
+    "actual_threat": "C2/DGA"
+  },
+  {
+    "domain": "admin-netflix-y406.co",
+    "entropy": 3.8365916681089787,
+    "strategy": "Mid Entropy Evasion (Goldilocks)",
+    "expected_bypass": "Stage 1 (Ambiguous Entropy)",
+    "actual_threat": "C2/DGA"
+  },
+  {
+    "domain": "google-v6-service.com",
+    "entropy": 3.3371753411230767,
+    "strategy": "Mid Entropy Evasion (Goldilocks)",
+    "expected_bypass": "Stage 1 (Ambiguous Entropy)",
+    "actual_threat": "C2/DGA"
+  },
+  {
+    "domain": "paypal-ordr.io",
+    "entropy": 2.913977073182752,
+    "strategy": "Mid Entropy Evasion (Goldilocks)",
+    "expected_bypass": "Stage 1 (Ambiguous Entropy)",
+    "actual_threat": "C2/DGA"
+  },
+  {
+    "domain": "adobe-v5-portal.org",
+    "entropy": 3.506890595608519,
+    "strategy": "Mid Entropy Evasion (Goldilocks)",
+    "expected_bypass": "Stage 1 (Ambiguous Entropy)",
+    "actual_threat": "C2/DGA"
+  },
+  {
+    "domain": "help-netflix-34kn.co",
+    "entropy": 3.616874605956222,
+    "strategy": "Mid Entropy Evasion (Goldilocks)",
+    "expected_bypass": "Stage 1 (Ambiguous Entropy)",
+    "actual_threat": "C2/DGA"
+  },
+  {
+    "domain": "paypal-1y8h.com",
+    "entropy": 2.913977073182752,
+    "strategy": "Mid Entropy Evasion (Goldilocks)",
+    "expected_bypass": "Stage 1 (Ambiguous Entropy)",
+    "actual_threat": "C2/DGA"
+  },
+  {
+    "domain": "cisco-l7gu.org",
+    "entropy": 3.1219280948873624,
+    "strategy": "Mid Entropy Evasion (Goldilocks)",
+    "expected_bypass": "Stage 1 (Ambiguous Entropy)",
+    "actual_threat": "C2/DGA"
+  },
+  {
+    "domain": "facebook-p0rf.net",
+    "entropy": 3.3927474104487847,
+    "strategy": "Mid Entropy Evasion (Goldilocks)",
+    "expected_bypass": "Stage 1 (Ambiguous Entropy)",
+    "actual_threat": "C2/DGA"
+  },
+  {
+    "domain": "6if21rek7eq2e67x1rw6q8urc.net",
+    "entropy": 3.7532696895151085,
+    "strategy": "Timing Jitter (should NOT evade - feature-based detection)",
+    "jitter_delay": "1.27s",
+    "expected_bypass": "NONE (timing-independent)",
+    "actual_threat": "DGA"
+  },
+  {
+    "domain": "r732thhp2fcvrr23mes8f9wy4.io",
+    "entropy": 4.023465189601647,
+    "strategy": "Timing Jitter (should NOT evade - feature-based detection)",
+    "jitter_delay": "4.17s",
+    "expected_bypass": "NONE (timing-independent)",
+    "actual_threat": "DGA"
+  },
+  {
+    "domain": "j18nm5dequah5rmwbc5qhwqbk.co",
+    "entropy": 3.943465189601647,
+    "strategy": "Timing Jitter (should NOT evade - feature-based detection)",
+    "jitter_delay": "2.45s",
+    "expected_bypass": "NONE (timing-independent)",
+    "actual_threat": "DGA"
+  },
+  {
+    "domain": "fklbd0330dw53hgyu69bllkkm.co",
+    "entropy": 3.8332696895151086,
+    "strategy": "Timing Jitter (should NOT evade - feature-based detection)",
+    "jitter_delay": "3.03s",
+    "expected_bypass": "NONE (timing-independent)",
+    "actual_threat": "DGA"
+  },
+  {
+    "domain": "giuf13ol03ykqfcqp5brv4jka.org",
+    "entropy": 4.323856189774725,
+    "strategy": "Timing Jitter (should NOT evade - feature-based detection)",
+    "jitter_delay": "8.56s",
+    "expected_bypass": "NONE (timing-independent)",
+    "actual_threat": "DGA"
+  },
+  {
+    "domain": "psb8uh54v9ve-from.co",
+    "entropy": 3.9698157824268097,
+    "strategy": "Padding Evasion (common words)",
+    "expected_bypass": "Stage 1 (entropy reduction)",
+    "actual_threat": "DGA"
+  },
+  {
+    "domain": "for-jjv73hq51nwu.com",
+    "entropy": 3.875,
+    "strategy": "Padding Evasion (common words)",
+    "expected_bypass": "Stage 1 (entropy reduction)",
+    "actual_threat": "DGA"
+  },
+  {
+    "domain": "from-vdbx6wfdm7i7-for.io",
+    "entropy": 3.594465636961452,
+    "strategy": "Padding Evasion (common words)",
+    "expected_bypass": "Stage 1 (entropy reduction)",
+    "actual_threat": "DGA"
+  },
+  {
+    "domain": "that-lhsdcnws8hm3-with.net",
+    "entropy": 3.6069367321753214,
+    "strategy": "Padding Evasion (common words)",
+    "expected_bypass": "Stage 1 (entropy reduction)",
+    "actual_threat": "DGA"
+  },
+  {
+    "domain": "xzpyogzhsjd9-with.com",
+    "entropy": 3.85216872360328,
+    "strategy": "Padding Evasion (common words)",
+    "expected_bypass": "Stage 1 (entropy reduction)",
+    "actual_threat": "DGA"
+  }
+]

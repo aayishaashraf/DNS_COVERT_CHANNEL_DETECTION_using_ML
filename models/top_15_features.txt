@@ -1,0 +1,15 @@
+character_entropy
+ttl_values_max
+numerical_percentage
+ttl_values_mean
+dns_domain_name_length
+total_bytes
+max_continuous_numeric_len
+receiving_bytes
+sending_bytes
+mean_packets_len
+min_packets_len
+max_packets_len
+distinct_A_records
+variance_packets_len
+packets_len_rate

@@ -1,0 +1,20 @@
+{
+  "accuracy": 0.9935,
+  "precision": 0.9920239282153539,
+  "recall": 0.995,
+  "f1": 0.9935097353969047,
+  "fpr": 0.8,
+  "fnr": 0.5,
+  "confusion_matrix": [
+    [
+      992,
+      8
+    ],
+    [
+      5,
+      995
+    ]
+  ],
+  "layer1_efficiency": 0.1075,
+  "layer2_cases": 1785
+}

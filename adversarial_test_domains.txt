@@ -1,0 +1,33 @@
+# ADVERSARIAL TEST DOMAINS - RED TEAM
+# Generated for robustness testing
+
+mail-facebook.com
+oracle-help.net
+system.adobe-update.net
+cisco-service.com
+systemadobehelp.com
+cisco-verify.com
+update-apple.net
+loginpaypalcenter.net
+adobe-portal.org
+systemciscoverify.com
+cisco-v7-support.com
+paypal-v1-secure.net
+admin-netflix-y406.co
+google-v6-service.com
+paypal-ordr.io
+adobe-v5-portal.org
+help-netflix-34kn.co
+paypal-1y8h.com
+cisco-l7gu.org
+facebook-p0rf.net
+6if21rek7eq2e67x1rw6q8urc.net
+r732thhp2fcvrr23mes8f9wy4.io
+j18nm5dequah5rmwbc5qhwqbk.co
+fklbd0330dw53hgyu69bllkkm.co
+giuf13ol03ykqfcqp5brv4jka.org
+psb8uh54v9ve-from.co
+for-jjv73hq51nwu.com
+from-vdbx6wfdm7i7-for.io
+that-lhsdcnws8hm3-with.net
+xzpyogzhsjd9-with.com
